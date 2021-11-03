@@ -1,4 +1,4 @@
-# HTML Cheat Sheet
+# Excurion Project
 > **HTML and CSS Off-Platform Project Excursion from Codecademy Full-Stack Engineer Career Path**
 
 
